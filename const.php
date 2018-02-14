@@ -1,6 +1,9 @@
 <?php
 
-
+$except = [
+    'ETH',
+    'GAS',
+];
 
 $symbol = [
     "BTC" =>[
